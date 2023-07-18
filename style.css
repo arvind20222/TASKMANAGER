@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: grey;
+  }
+  
